@@ -19,7 +19,7 @@
 
 - A passionate developer
 - Playing CTF's at spare time
-- Currently learning Web Development/Algorithms @ UMD
+- Currently learning OOP, Web Development, Algorithms @ UMD
 - Personal website [link]([https://www.0xabdulkhalid.ml)](https://cruz-alexander.github.io/)
 - I’m currently open for an Intern or a new job opportunity, this is [my resume]([https://read.cv/0xabdulkhalid](https://docs.google.com/document/d/10LG39jyPd9x-QFEmfsLHCeziFcOkWcvpEAwVsdrTCW4/edit))
 
