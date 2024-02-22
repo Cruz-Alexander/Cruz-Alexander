@@ -21,7 +21,7 @@
 - Playing CTF's at spare time
 - Currently learning OOP, Web Development, Algorithms @ UMD
 - Personal website [link](https://cruz-alexander.github.io/)
-- I’m currently open for an Intern or a new job opportunity, this is [my resume](https://docs.google.com/document/d/10LG39jyPd9x-QFEmfsLHCeziFcOkWcvpEAwVsdrTCW4/edit)
+- I’m currently open for an Intern or a new job opportunity, this is [my resume](https://docs.google.com/document/d/1jwI_iHrHW0sMH7UtQ1mceoN82Q6bfedfiJ8jZsUUuo4/edit)
 
 <br><br>
 
@@ -85,9 +85,9 @@
 
 <div align="center">
 
-<a href="https://github.com/0xabdulkhalid/">
-  <img src="https://github-readme-stats.vercel.app/api?username=0xabdulkhalid&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="450"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=0xabdulkhalid&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="375"  alt="0xabdulkhalid"/>
+<a href="https://github.com/Cruz-Alexander/">
+  <img src="https://github-readme-stats.vercel.app/api?username=Cruz-Alexander&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="450"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Cruz-Alexander&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="375"  alt="Cruz-Alexander"/>
 
 </a>
 </div>
@@ -101,7 +101,7 @@
 <br>
 <br>
 
-## <b> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
+## <b> Let's Connect..!</b><img src="https://github.com/Cruz-Alexander" width ="80">
 <br>
 <div align='left'>
 
